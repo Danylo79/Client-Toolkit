@@ -1,7 +1,5 @@
 package test.dev.dankom.ctk;
 
-import net.minecraft.client.gui.GuiScreen;
+import prod.dev.dankom.ctk.gui.Screen;
 
-public class TestGUI extends GuiScreen {
-
-}
+public class TestGUI extends Screen {}

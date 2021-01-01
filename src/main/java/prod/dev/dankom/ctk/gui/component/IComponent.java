@@ -19,4 +19,5 @@ public interface IComponent {
     //Event
     void onClick();
     void onSetup();
+    default void onRender() {}
 }
