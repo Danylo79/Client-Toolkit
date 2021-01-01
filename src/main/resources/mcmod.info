@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ctk_test",
+  "name": "Client Toolkit Tester",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dankom"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
